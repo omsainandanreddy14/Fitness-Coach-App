@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Secrets and configuration
+.streamlit/secrets.toml
+.env
+.env.local
+
+# Streamlit cache
+.streamlit/
+
+# Videos and media (optional - comment out if you want to commit demo videos)
+*.mp4
+*.mov
+*.avi
+*.m4v
+
+# Temp files
+*.tmp
+tmp/
+temp/
+tempfiles/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
