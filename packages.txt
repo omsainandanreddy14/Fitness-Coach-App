@@ -1,7 +1,13 @@
 ffmpeg
 libsm6
 libxext6
+libxrender-dev
 libgomp1
 libglib2.0-0
 libxkbcommon-x11-0
 libdbus-1-3
+libgl1-mesa-glx
+libegl1-mesa
+libxkbcommon0
+python3-dev
+build-essential
